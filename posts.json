@@ -100,7 +100,6 @@
         }
     },
     "posts" : [
-      {},
       {
         "slug": "officially_graduated",
         "hotwords": ["university", "masters", "graduation"],
