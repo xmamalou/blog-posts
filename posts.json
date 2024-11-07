@@ -1,5 +1,13 @@
 { 
     "hotwords" : {
+      "graduation" : {
+        "en": "graduation",
+        "el": "αποφοίτηση"
+      },
+      "masters" : {
+          "en": "masters",
+          "el": "μεταπτυχιακό"
+      },
         "vuejs": {
             "en": "vuejs"
         },
@@ -92,6 +100,25 @@
         }
     },
     "posts" : [
+      {
+        "slug": "officially_graduated",
+        "hotwords": ["university", "masters", "graduation"],
+        "title": {
+            "en": "Officially Graduated!",
+            "el": "Επισήμως απόφοιτος!"
+        },
+        "summary": {
+            "en": "Goodbye Physics! Hello, new world!",
+            "el": "Αντίο Φυσική! Χαίρε, Νέε Κόσμε!"
+        },
+        "updated": "2024-10-26T00:00:00.000Z",
+        "published": "2024-10-26T00:00:00.000Z",
+        "author": "Mantis",
+        "body": {
+            "en": "<p>I have officially graduated from my undergrad with HONOURS! I have also been officially enrolled in my masters! All within one and a half hour from receiving my graduation paper! Not used to <i>such</i> servicing speeds! I am impressed.</p> <p>Masters is going wonderfully. I am on my fifth week now. Learnt tons of stuff, from SystemVerilog to scheduling and memory management in RTOS. Been rather busy, not gonna lie. I have to also cover a few gaps in my knowledge, so my schedule is pretty tight at times. Still, nothing I am not used to!</p> <p>Marching on with confidence!</p> <figure> <img src=\"src/assets/toad-screaming.gif\" alt=\"toad screaming meme\" width=\"500\"></p> <figcaption>Artist's impression of me turning a new leaf, calmly and collected-ly.</figcaption></figure>",
+            "el": "<p>Επισήμως αποφοίτησα από το προπτυχιακό με ΆΡΙΣΤΑ! Και εγγράφηκα στο μεταπτυχιακο! Τάκα τάκα, μέσα σε μιάμιση ώρα από την παραλαβή της βεβαίωσης περάτωσης σπουδών μου! Δεν περίμενα <i>τέτοια</i> ταχύτητα εξυπηρέτησης! Εξεπλάγην!</p> <p>Το μεταπτυχιακό βαίνει καλώς. Πέμπτη εβδομάδα τώρα. Έμαθα τόνο νέων πραγμάτων, από SystemVerilog ως χρονοπρογραμματισμό και διαχείρηση μνήμης σε συστήματα πραγματικού χρόνου. Δεν θα πω ψέματα, έχω σχετικά γεμάτο πρόγραμμα· πρέπει,μάλιστα, να καλύψω και μερικά κενά που έχω. Παρ΄ όλα αυτά, δεν είναι κάτι νέο για εμένα!</p><p>Προχωρούμε εμπρός με αυτοπεποίθηση!</p><figure><img src=\"src/assets/toad-screaming.gif\" alt=\"toad screaming meme\" width=\"500\"></p><figcaption>Καλλιτεχνική αναπαράσταση της νέας μου αρχής που ξεκίνησα με ηρεμία και αυτοσυγκράτηση.</figcaption></figure>"
+        }
+    },
         {
           "slug": "godot_remotecar_prototype3",
           "hotwords": [
