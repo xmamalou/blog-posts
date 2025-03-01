@@ -113,6 +113,7 @@
     {
       "slug": "ziguino",
       "hotwords": ["zig", "embedded", "arduino"],
+      "featured_image": "https://raw.githubusercontent.com/xmamalou/blog-posts/refs/heads/master/assets/ziggy.webp",
       "title": {
         "en" : "Getting Ziggy with Arduino",
         "el" : "Παίζοντας με το Zig στο Arduino"
