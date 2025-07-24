@@ -115,6 +115,22 @@
   },
   "posts": [
     {
+      "slug": "goodbye_website",
+      "hotwords": [],
+      "title" : {
+        "en": "Goodbye Website"
+      },
+      "summary": {
+        "en": "Saying goodbye to the big Internet"
+      },
+      "updated": "2025-08-24T00:00:00.000Z",
+      "published": "2025-08-24T00:00:00.000Z",
+      "author": "Mantis",
+      "body": {
+        "en": "<p>The title says it all, pretty much. I am not going to update this website anymore, although I will leave it be.</p><p>Why? Because it's kind of a pain to maintain and because I am not really fond of the \"big\" Internet.</p><p>Does this mean I am gone forever? Not really. I am now on the small internet and the fediverse, whilst keeping this \"I wonder if he's alive\" posting schedule!</p><p>Specifically, you can find me:</p><ul><li>On my Gemini capsule (gemini://tilde.team/~cybermantid/)!</li><li>On XMPP (cybermantid@tilde.team)</li><li>On IRC @ irc.tilde.chat and @ irc.libera.chat (cybermantid)</li><li>On Mastodon (@cybermantid@tilde.zone)</li></ul><p>This website was fun to make, but I think it's time to leave it be. The Web is too big for my tastes.</p>"
+      }
+    },
+    {
       "slug": "monty_hall",
       "hotwords": ["math", "random", "physics", "probabilities"],
       "featured_image": "https://animalia-life.club/data_images/goat/goat4.jpg",
